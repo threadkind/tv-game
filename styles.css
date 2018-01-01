@@ -1,0 +1,28 @@
+body {
+	background: lightpink;
+}
+#wheelContainer {
+	width: 500px;
+	margin: 0 auto;
+	margin-top: -25px;
+}
+#wheelContainer img {
+	width: 500px;
+}
+#buttonContainer img {
+	width: 125px;
+	padding-top: 10px;
+}
+#buttonContainer {
+	width: 125px;
+	margin: 0 auto;
+}
+#clickerContainer img {
+	position: relative;
+	width: 35px;
+	z-index: 10;
+}
+#clickerContainer {
+	width: 35px;
+	margin: 0 auto;
+}
